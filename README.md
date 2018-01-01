@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -------------------------------------------------------------------------------------------------------------------
 
-**Problema 1.-** Considerar el conjunto de datos *trees* de R que contiene la circunferencia, altura y volumen de cerezos.
+**Problema 1.-** Considerar el conjunto de datos *trees* de R que contiene la circunferencia, altura y volumen de cerezos.   
 
 Para poder acceder al conjunto de datos, utilizamos la función ```data()```, le cambiamos los nombres a las variables y 
 usamos ```attach()``` para no tener que llamar en cada paso al data frame *árboles*. Para comprobar si los datos se han cargado bien utilizamos la función ```head()``` que devuelve las seis primeras observaciones. 
